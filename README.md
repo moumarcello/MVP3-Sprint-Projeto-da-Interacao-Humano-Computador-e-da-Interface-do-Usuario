@@ -3,7 +3,7 @@ Arquivos relacionados a tarefa MVP3 (Sprint: Projeto da Interação Humano Compu
 
 Arquivos do MVP:
 - Arquivo .PDF do relatório completo
-- Arquivo .FIG do projeto
+- Arquivo .FIG do projeto (arquivo muito pesado para o GitHub. Subi no drive e coloquei o link abaixo)
 - Arquivo .PDF do diagrama MoLIC
 
 Links:

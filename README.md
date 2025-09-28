@@ -9,4 +9,4 @@ Arquivos do MVP:
 Links:
 - Link editável e navegável do protótipo no Figma: https://www.figma.com/design/pkN3lWg0wUDlfqNVNsE1Ht/Locou---Hi-Fi?node-id=0-1&t=G2oA2UIkI7HXvZKq-1
 - Link do protótipo em .FIG no Google Drive: https://drive.google.com/file/d/16fREBojnqA-tUyIlTdv-hPQzv9Yuv4cT/view?usp=sharing
-- Link do diagrama MoLIC em alta resolução no Google Drive: https://drive.google.com/file/d/1cCnn4RKyHgubebFENBWMJ5wgi-jmcvjY/view?usp=drive_link
+- Link do diagrama MoLIC em alta resolução no Google Drive: https://drive.google.com/file/d/1jn3maz5Jvp_UqOSadAGWlXYkm8xBrMuI/view?usp=drive_link
